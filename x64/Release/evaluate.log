@@ -1,0 +1,66 @@
+﻿  EllipseR.cpp
+C:\openCV\opencv\build\include\opencv2/core/mat.hpp(1965): warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+C:\openCV\opencv\build\include\opencv2/core/persistence.hpp : warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+C:\openCV\opencv\build\include\opencv2/core/utility.hpp : warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+  EllipsesSingleImage.cpp
+C:\Users\never\Desktop\evaluation\include\opencv2/core/mat.hpp(1965): warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+C:\Users\never\Desktop\evaluation\include\opencv2/core/persistence.hpp : warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+C:\Users\never\Desktop\evaluation\include\opencv2/core/utility.hpp : warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+  evaluate.cpp
+C:\Users\never\Desktop\evaluation\include\opencv2/core/mat.hpp(1965): warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+C:\Users\never\Desktop\evaluation\include\opencv2/core/persistence.hpp : warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+C:\Users\never\Desktop\evaluation\include\opencv2/core/utility.hpp : warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+  Hungarian.cpp
+  Matching.cpp
+C:\Users\never\Desktop\evaluation\include\opencv2/core/mat.hpp(1965): warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+C:\Users\never\Desktop\evaluation\include\opencv2/core/persistence.hpp : warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+C:\Users\never\Desktop\evaluation\include\opencv2/core/utility.hpp : warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+Matching.cpp(107): warning C4018: '<' : signed/unsigned mismatch
+Matching.cpp(110): warning C4018: '<' : signed/unsigned mismatch
+Matching.cpp(120): warning C4018: '<' : signed/unsigned mismatch
+Matching.cpp(125): warning C4018: '<' : signed/unsigned mismatch
+Matching.cpp(145): warning C4018: '<' : signed/unsigned mismatch
+Matching.cpp(151): warning C4018: '<' : signed/unsigned mismatch
+Matching.cpp(152): warning C4018: '<' : signed/unsigned mismatch
+Matching.cpp(157): warning C4018: '<' : signed/unsigned mismatch
+Matching.cpp(158): warning C4018: '<' : signed/unsigned mismatch
+Matching.cpp(177): warning C4018: '<' : signed/unsigned mismatch
+Matching.cpp(178): warning C4018: '<' : signed/unsigned mismatch
+Matching.cpp(193): warning C4018: '<' : signed/unsigned mismatch
+Matching.cpp(196): warning C4018: '<' : signed/unsigned mismatch
+Matching.cpp(222): warning C4018: '<' : signed/unsigned mismatch
+  MatchPair.cpp
+C:\Users\never\Desktop\evaluation\include\opencv2/core/mat.hpp(1965): warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+C:\Users\never\Desktop\evaluation\include\opencv2/core/persistence.hpp : warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+C:\Users\never\Desktop\evaluation\include\opencv2/core/utility.hpp : warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+  OpenCVUtils.cpp
+C:\Users\never\Desktop\evaluation\include\opencv2/core/mat.hpp(1965): warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+C:\Users\never\Desktop\evaluation\include\opencv2/core/persistence.hpp : warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+C:\Users\never\Desktop\evaluation\include\opencv2/core/utility.hpp : warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+  RectangleR.cpp
+C:\Users\never\Desktop\evaluation\include\opencv2/core/mat.hpp(1965): warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+C:\Users\never\Desktop\evaluation\include\opencv2/core/persistence.hpp : warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+C:\Users\never\Desktop\evaluation\include\opencv2/core/utility.hpp : warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+  RectanglesSingleImage.cpp
+C:\Users\never\Desktop\evaluation\include\opencv2/core/mat.hpp(1965): warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+C:\Users\never\Desktop\evaluation\include\opencv2/core/persistence.hpp : warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+C:\Users\never\Desktop\evaluation\include\opencv2/core/utility.hpp : warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+  Region.cpp
+C:\Users\never\Desktop\evaluation\include\opencv2/core/mat.hpp(1965): warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+C:\Users\never\Desktop\evaluation\include\opencv2/core/persistence.hpp : warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+C:\Users\never\Desktop\evaluation\include\opencv2/core/utility.hpp : warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+  RegionsSingleImage.cpp
+C:\Users\never\Desktop\evaluation\include\opencv2/core/mat.hpp(1965): warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+C:\Users\never\Desktop\evaluation\include\opencv2/core/persistence.hpp : warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+C:\Users\never\Desktop\evaluation\include\opencv2/core/utility.hpp : warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+  Results.cpp
+C:\Users\never\Desktop\evaluation\include\opencv2/core/mat.hpp(1965): warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+C:\Users\never\Desktop\evaluation\include\opencv2/core/persistence.hpp : warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+C:\Users\never\Desktop\evaluation\include\opencv2/core/utility.hpp : warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+Results.cpp(99): warning C4267: '=' : conversion from 'size_t' to 'unsigned int', possible loss of data
+Results.cpp(102): warning C4267: '=' : conversion from 'size_t' to 'unsigned int', possible loss of data
+  Generating Code...
+c:\users\never\desktop\evaluation\hungarian.cpp(159): warning C4700: uninitialized local variable 'row_max' used
+c:\users\never\desktop\evaluation\hungarian.cpp(169): warning C4700: uninitialized local variable 'col_max' used
+LINK : warning LNK4075: ignoring '/INCREMENTAL' due to '/OPT:ICF' specification
+  evaluate.vcxproj -> C:\Users\never\Desktop\evaluation\x64\Release\evaluate.exe
